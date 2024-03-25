@@ -1,0 +1,23 @@
+{
+    "Format": "2.0.0",
+    "Changes": [
+        {
+            "Action": "Load",
+            "Target": "Maps/Farm_Ranching",
+            "FromFile": "assets/Farm_Ranching.tmx"
+        },
+        {
+            "LogName": "UI Farm Title and Description",
+            "Action": "EditData",
+            "Target": "Strings/1_6_Strings",
+            "Entries": {
+                "Farm_Ranching_Description": "Wumbus Farm_Meadowlands Farm but bigger :)"
+            }
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Loosesprites/farm_ranching_icon",
+            "FromFile": "assets/icon.png"
+        }
+    ]
+}

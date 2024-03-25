@@ -1,0 +1,12 @@
+{
+	"Name": "Wumbus Farm",
+	"Author": "Espy",
+	"Version": "1.0.5",
+	"Description": "Custom Meadowlands farm for the cottage discord server.",
+	"UniqueID": "Espy.WumbusFarm",
+	"MinimumApiVersion": "4.0.0",
+	"UpdateKeys": [ "GitHub:Smoked-Fish/WumbusFarm" ],
+	"ContentPackFor": {
+	  "UniqueID": "Pathoschild.ContentPatcher"
+	}
+  }
